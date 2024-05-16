@@ -16,10 +16,10 @@ INSTALLATION
 
 To install this module, run the following commands:
 
-        perl Makefile.PL
-        make
-        make test
-        make install
+	perl Makefile.PL
+	make
+	make test
+	make install
 
 SUPPORT AND DOCUMENTATION
 
@@ -47,3 +47,4 @@ This software is Copyright (c) 2024 by CVRoss.
 This is free software, licensed under:
 
   The Artistic License 2.0 (GPL Compatible)
+
